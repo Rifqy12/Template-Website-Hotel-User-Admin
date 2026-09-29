@@ -1,0 +1,53 @@
+==========================================
+DAFTAR AKUN TEST - HOTEL PARADISE
+==========================================
+
+ADMIN ACCOUNT
+-------------
+Email    : admin@hotelparadise.com
+Password : password
+Role     : Admin
+Akses    : Dashboard Booking (kelola semua pemesanan)
+
+
+GUEST ACCOUNTS
+--------------
+1. Akun Asep
+   Email    : asep@example.com
+   Password : password
+   Role     : Guest
+   Akses    : Buat booking, lihat riwayat pemesanan
+
+2. Akun Jane
+   Email    : jane@example.com
+   Password : password
+   Role     : Guest
+   Akses    : Buat booking, lihat riwayat pemesanan
+
+
+==========================================
+FITUR BERDASARKAN ROLE
+==========================================
+
+ADMIN:
+- Lihat semua booking di dashboard
+- Update status booking (pending → confirmed/cancelled)
+- Hapus booking
+- Real-time statistics
+- Menu navbar: Home, Kamar, Booking, Tentang, Kontak
+
+GUEST:
+- Cari & lihat kamar
+- Buat pemesanan baru
+- Lihat riwayat pemesanan sendiri
+- Batalkan booking yang masih pending
+- Download konfirmasi booking yang confirmed
+- Menu navbar: Home, Kamar, Riwayat, Tentang, Kontak
+
+
+==========================================
+INFO KONTAK HOTEL
+==========================================
+Telepon : +62 707 555333
+Email   : info@hotelparadise.com
+Alamat  : Jl. Sunset Road No. 123, Seminyak, Bali
